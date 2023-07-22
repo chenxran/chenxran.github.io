@@ -100,6 +100,11 @@
         {%- capture link -%}https://github.com/{{ site.github_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
+    {%- if site.chess_username -%}
+        {%- capture link -%}https://www.chess.com/member/{{ site.chess_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    
     {%- if site.telegram_username -%}
         {%- capture link -%}https://telegram.me/{{ site.telegram_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
