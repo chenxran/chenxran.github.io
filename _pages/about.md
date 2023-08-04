@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a first-year master student in Biostatistics at the University of Michigan. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/).
+I am currently a first-year master student in Biostatistics at the University of Michigan. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/). My name in Chinese characters is 陈星然.
 
 My current research interest focus on: 
 
@@ -27,7 +27,7 @@ My current research interest focus on:
 - LLM as authentic reasoner for extending scientific frontiers.
 - Broader applications of AI for Science.
 
-I am currently seeking a Ph.D. position for Fall 2024.
+I am currently seeking a Ph.D. position for Fall 2024! If you are interested in my research, please feel free to contact me.
 
 <!-- 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
