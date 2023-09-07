@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Michigan</a>
 
 profile:
   align: right
-  image: me.jpg
+  image: me-2023.JPG
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
