@@ -21,11 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a first-year master student in Biostatistics at the University of Michigan. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/). My name in Chinese characters is 陈星然.
 
-My current research interest focus on: 
-
-- LLM as easily-editable knowledge bases for query.
-- LLM as authentic reasoner for extending scientific frontiers.
-- Broader applications of AI for Science.
+My current research interest focus on LLMs and AI-powered statistical inference procedure.
 
 I am currently seeking a Ph.D. position for Fall 2024! Any advice or suggestions are welcome!
 
