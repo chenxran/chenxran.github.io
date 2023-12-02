@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a first-year master student in Biostatistics at the University of Michigan. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/). My name in Chinese characters is 陈星然.
+I am currently a second-year master student in Biostatistics at the University of Michigan. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/). My name in Chinese characters is 陈星然.
 
 My current research interest focus on LLMs and AI-powered statistical inference procedure.
 
