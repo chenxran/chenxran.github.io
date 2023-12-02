@@ -7,7 +7,7 @@
       value: Mandarin, English, Japanese
     - name: Download CV 
       links:
-        - link: /assets/pdf/CV_July_2023.pdf.pdf
+        - link: assets/pdf/Curriculum_Vitae__updated_2023_12_1_.pdf
           name: CV PDF
 
 # - title: General Information
