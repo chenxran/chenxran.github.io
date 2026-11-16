@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A growing collection of my cool publications. * represents equal contribution.
+description: My current research focuses on statistical inference with machine learning, missing data, EHR-linked biobanks, and synthetic health data. Earlier work spans natural language processing, scientific machine learning, and representation learning.
 nav: true
 nav_order: 1
 ---

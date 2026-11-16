@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>
+subtitle: Ph.D. Candidate in Biostatistics, University of Michigan
 
 profile:
   align: right
@@ -19,11 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a second-year master student in Biostatistics at the University of Michigan. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/). My name in Chinese characters is 陈星然.
+I am a Ph.D. candidate in Biostatistics at the University of Michigan, co-advised by Prof. Zhenke Wu and Prof. Bhramar Mukherjee. I received my M.S. in Biostatistics from the University of Michigan in 2024. Before that, I obtained my Bachelor of Science in Statistics (Data Science Track) at the Shanghai University of Finance and Economics, where I was advised by Prof. [Wanyun Cui](https://cuiwanyun.github.io/). My name in Chinese characters is 陈星然.
 
-My current research interest focus on LLMs and AI-powered statistical inference procedure.
-
-I am currently seeking a Ph.D. position for Fall 2024! Any advice or suggestions are welcome!
+My research lies at the intersection of biostatistics and machine learning. I develop methods for valid and efficient statistical inference with incomplete data, with a particular focus on missing data, prediction-based inference, EHR-linked biobanks, and synthetic health data.
 
 <!-- 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
