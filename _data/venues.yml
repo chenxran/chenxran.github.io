@@ -1,6 +1,5 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
+# Venue badges for publication lists, keyed by the bib entry's abbr field. Format:
+# "ABBR":
+#   url: https://example.org
+#   color: "#00369f"
+{}
