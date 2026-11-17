@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chenxran.github.io/sitemap.xml
+Sitemap: https://chenxingran.com/sitemap.xml
